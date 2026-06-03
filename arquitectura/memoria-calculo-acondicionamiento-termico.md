@@ -147,12 +147,3 @@ $Q_{tot}=0.15\cdot A_{piso}+3.5\cdot(N_{br}+1)$
 * Declarar que ante la falta de ensayos locales, se asume un crédito de infiltración nulo ($Q_{inf}=0$), por lo que la tasa de inyección mecánica de diseño es:
 $Q_{fan}=Q_{tot}$
 * Validar la exigencia de extracción local mecánica constante o intermitente en áreas húmedas, requiriendo sistemas mecánicos de al menos 50 L/s en la cocina y 25 L/s en los baños.
-
----
-
-### Instrucciones para utilizar este prompt (Skill):
-
-1. Copia todo el bloque de texto superior (incluyendo las secciones en LaTeX).
-2. Pégalo en tu plataforma de IA preferida como **instrucción de sistema** o directamente como primer mensaje para configurar el modelo.
-3. A continuación, adjúntale el texto extraído o un resumen de tu archivo de Especificaciones Técnicas (por ejemplo, el texto de `EE_TT_paso_a_pasito_2023.pdf` `[1]`).
-4. El asistente se configurará inmediatamente, procesará los materiales que encuentre, detendrá la ejecución al llegar a la **Fase 2**, y te presentará el cuestionario estructurado esperando que le proveas los metros cuadrados, la comuna de emplazamiento y la orientación para entregarte la memoria térmica definitiva.
